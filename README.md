@@ -63,7 +63,3 @@ cd /lib/firmware \
 && wget https://github.com/uesugitatsuya/rtinstx/raw/master/other/bnx2-mips-09-6.2.1b.fw \
 && chmod -R 777 /lib/firmware/bnx2 \
 && cd
-
-
-wget https://github.com/uesugitatsuya/rtinstx/raw/master/other/bnx2-mips-06-6.2.3.fw \
-&& wget https://github.com/uesugitatsuya/rtinstx/raw/master/other/bnx2-mips-09-6.2.1b.fw
